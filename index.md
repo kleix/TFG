@@ -14,8 +14,6 @@
 <meta property="og:site_name" content="Visualization of an HTML document in virtual reality">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="TFG">
-<script type="application/ld+json">
-{"name":"Visualization of an HTML document in virtual reality","description":"Proyecto que incluye el contenido del TFG “Visualización de la estructura de documentos HTML en realidad virtual”","url":"https://kleix.github.io/TFG/","@type":"WebSite","headline":"TFG","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
