@@ -33,7 +33,7 @@
           <li>Memoria final del TFG</li>
           <li>Código fuente del Proyecto</li>
           <li>Presentación en transparencias del proyecto</li>
-          <li>Presentación en transparencias del proyecto --</li>
+          <li>Presentación en transparencias del proyecto  111</li>
         </ul>
 
       </section>
