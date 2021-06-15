@@ -9,8 +9,6 @@
 <meta name="generator" content="Jekyll v3.9.0">
 <meta property="og:title" content="TFG">
 <meta property="og:locale" content="en_US">
-<meta name="description" content="Proyecto que incluye el contenido del TFG “Visualización de la estructura de documentos HTML en realidad virtual”">
-<meta property="og:description" content="Proyecto que incluye el contenido del TFG “Visualización de la estructura de documentos HTML en realidad virtual”">
 <link rel="canonical" href="https://kleix.github.io/TFG/">
 <meta property="og:url" content="https://kleix.github.io/TFG/">
 <meta property="og:site_name" content="Visualization of an HTML document in virtual reality">
