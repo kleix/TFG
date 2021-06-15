@@ -24,45 +24,23 @@
 
 <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/kleix/TFG">View on GitHub</a>
-
-          <h1 id="project_title">Visualization of an HTML document in virtual reality</h1>
-          <h2 id="project_tagline">Proyecto que incluye el contenido del TFG "Visualización de la estructura de documentos HTML en realidad virtual"</h2>
-
-          
-        </header>
-    </div>
-
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h1 id="tfg">TFG</h1>
 
-<p>Proyecto que incluye el contenido del TFG “Visualización de la estructura de documentos HTML en realidad virtual”</p>
+        <p>Proyecto que incluye el contenido del TFG “Visualización de la estructura de documentos HTML en realidad virtual”</p>
 
-<p>Contiene:</p>
+        <p>Contiene:</p>
 
-<ul>
-  <li>Memoria final del TFG</li>
-  <li>Código fuente del Proyecto</li>
-  <li>Presentación en transparencias del proyecto</li>
-  <li>Presentación en transparencias del proyecto --</li>
-</ul>
+        <ul>
+          <li>Memoria final del TFG</li>
+          <li>Código fuente del Proyecto</li>
+          <li>Presentación en transparencias del proyecto</li>
+          <li>Presentación en transparencias del proyecto --</li>
+        </ul>
 
       </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        
-        <p class="copyright">Visualization of an HTML document in virtual reality maintained by <a href="https://github.com/kleix">kleix</a></p>
-        
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
     </div>
 
     
